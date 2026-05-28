@@ -1,0 +1,33 @@
+WHAT IS PYTHON?
+python is a high level, interpreted, object-oriented programing language used to create web site, mobile apps and many more.
+        It is one of the popular programing language because it is easy to learn, read, beginner friendly.
+FEAUTURES OF PYTHON:-
+1.Simple and easy:- Python syntax is very simple compared to other languages
+      ex:- a=b
+           b=20                         [it is almost as English]
+           print(a+b)
+2.Interprited language:-Python executes code line by line using interpreter
+ interpreter->1.read one line of code
+              2.transulate to machine language         [read->translate->execute(all at a time)]
+              3.execute it immediately
+3.High level language:- python is close to human language and far from machine language.
+4.Portable:- It is portable because same code can be run in different operating system with little or no change
+    operating system->macos, linux, windows
+5*.Object oriented programing(oop) and procedure oriented programing(pop)
+   1.Object oriented programing(oop):- python supports oops because it allows programs to be created using object and classes
+ what is objects?
+ It is a real world thing that has->data(properties),actions(functions)
+ ex:-A car has->colour, brand, speed(data)
+     action like->start, stop, move
+ what is class?
+ class is a blue print for creating object
+ ex:-House plan (class)
+     Actual house (object)
+   2.procedure oriented programing(pop):-python supports pop where the program is written using functions, procedures, step-by-step instructions
+  In pop whole code is divided into small functions and each function performs one task
+   ex:-Making tea you do step by step->Boil water, add tea powder add milk, sugar, serve 
+6.Extensible:- Python can work with other languages such as :-c, c++, java
+7.Large standard library:- That means python already have built in library's no need to write from scratch
+  ex:-math-> mathematical operations
+8.Free and open source
+9.Dynamically typed language
